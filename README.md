@@ -1,4 +1,4 @@
-# Toxic Comment Classification using LSTM
+# Toxic Comment Classification using LSTM (Still working on improving the accuracy)
 
 ## Project Overview
 
